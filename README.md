@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Illustration Chess on React
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/chess/blob/main/Illustration%20chess/chess.png)
 
 ## Available Scripts
 
